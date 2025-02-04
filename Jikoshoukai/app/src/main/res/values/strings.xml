@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">自己紹介</string>
+    <string name="Js_name">名前：山下竜之介</string>
+    <string name="Js_birthday">誕生日：2004.10.19</string>
+    <string name="Js_campus">キャンパス：所沢キャンパス</string>
+    <string name="Js_hobby">趣味：読書、ゲーム</string>
+    <string name="Js_dream">将来の夢：AIエンジニア</string>
+    <string name="title">画面をタップしてください</string>
+    <string name="Js_comment">半年以上やってるとはいえ、まだまだプログラミング初心者なので、色々なことを覚えて、活用できるように頑張ります！</string>
+    <string name="counter">貯金ゲーム</string>
+    <string name="decision">決定</string>
+    <string name="probability">確率変化↓</string>
+    <string name="todo">TODO</string>
+    <string name="please_input" size="10sp">数字入力</string>
+    <string name="home">ホームに戻る</string>
+    <string name="reset">re\nset</string>
+</resources>

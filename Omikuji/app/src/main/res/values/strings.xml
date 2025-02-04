@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">おみくじ</string>
+    <string name="bt_action">うらなう</string>
+    <string name="contents1">良縁が持ち込まれるでしょう。</string>
+    <string name="contents2">金運は非常に良く、思わぬ収入がありそう。</string> <!--大吉-->
+    <string name="contents3">気力充実するでしょう。</string>
+    <string name="contents4">金運向上の兆しがありますがムダ遣いは控えましょう。</string>
+    <string name="contents5">恋愛は心がけ次第でしょう。</string>
+    <string name="contents6">健康は可もなく不可もありません。</string>
+    <string name="contents7">金運は、ボランティア活動が上昇のきっかけになるはず。</string>
+    <string name="contents8">恋愛は辛抱が大事です。</string>
+    <string name="contents9">寝不足に注意しましょう。</string> <!--凶-->
+    <string name="contents10">Android Studioでエラーがでなくなるでしょう。</string>
+    <string name="contents11">突然空からお金が降ってくるかも？</string>
+    <string name="contents12">熱中症に注意しましょう。</string>
+    <string name="bt2_action">ホームに戻る</string>
+    <string name="screen_tap">画面をタップしてください</string>
+</resources>

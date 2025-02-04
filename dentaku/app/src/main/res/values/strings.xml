@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">dentaku</string>
+    <string name="calculator_bt0">0</string>
+    <string name="calculator_bt1">1</string>
+    <string name="calculator_bt2">2</string>
+    <string name="calculator_bt3">3</string>
+    <string name="calculator_bt4">4</string>
+    <string name="calculator_bt5">5</string>
+    <string name="calculator_bt6">6</string>
+    <string name="calculator_bt7">7</string>
+    <string name="calculator_bt8">8</string>
+    <string name="calculator_bt9">9</string>
+    <string name="calculator_bt_ten">.</string>
+    <string name="calculator_bt_ikoru">=</string>
+    <string name="calculator_bt_AC">AC</string>
+    <string name="calculator_bt_waru">÷</string>
+    <string name="calculator_bt_kakeru">×</string>
+    <string name="calculator_bt_hiku">-</string>
+    <string name="calculator_bt_tasu">+</string>
+</resources>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FrameLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="137dp"
+        android:layout_gravity="center"
+        android:gravity="bottom|end"
+        android:text="TextView"
+        android:textSize="85sp"
+        android:translationY="-210dp" />
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="231.5dp"
+        android:textSize="48sp"
+        android:text="@string/calculator_bt0"
+        android:layout_gravity="center|start"
+        android:id="@+id/button0"
+        android:translationX="8dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="124.5dp"
+        android:textSize="48sp"
+        android:text="@string/calculator_bt1"
+        android:layout_gravity="center|start"
+        android:id="@+id/button1"
+        android:translationX="8dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="124.5dp"
+        android:textSize="48sp"
+        android:text="@string/calculator_bt2"
+        android:layout_gravity="center"
+        android:id="@+id/button2"
+        android:translationX="-51dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="124.5dp"
+        android:textSize="48sp"
+        android:text="@string/calculator_bt3"
+        android:layout_gravity="center"
+        android:id="@+id/button3"
+        android:translationX="52dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="17.5dp"
+        android:textSize="48sp"
+        android:text="@string/calculator_bt4"
+        android:layout_gravity="center|start"
+        android:id="@+id/button4"
+        android:translationX="8dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="17.5dp"
+        android:textSize="48sp"
+        android:text="@string/calculator_bt5"
+        android:layout_gravity="center"
+        android:id="@+id/button5"
+        android:translationX="-51dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="17.5dp"
+        android:textSize="48sp"
+        android:text="@string/calculator_bt6"
+        android:layout_gravity="center"
+        android:id="@+id/button6"
+        android:translationX="52dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|start"
+        android:width="48dp"
+        android:background="@color/black"
+        android:text="@string/calculator_bt7"
+        android:textSize="48sp"
+        android:translationX="8dp"
+        android:translationY="-90dp" />
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="-90dp"
+        android:textSize="48sp"
+        android:text="@string/calculator_bt8"
+        android:layout_gravity="center"
+        android:id="@+id/button8"
+        android:translationX="-51dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="-90dp"
+        android:textSize="48sp"
+        android:text="@string/calculator_bt9"
+        android:layout_gravity="center"
+        android:id="@+id/button9"
+        android:translationX="52dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="231.5dp"
+        android:textSize="48sp"
+        android:text="@string/calculator_bt_ten"
+        android:layout_gravity="center"
+        android:id="@+id/button_ten"
+        android:translationX="-51dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="231.5dp"
+        android:textSize="48sp"
+        android:text="@string/calculator_bt_ikoru"
+        android:layout_gravity="center"
+        android:id="@+id/button_ikoru"
+        android:translationX="52dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="-100dp"
+        android:textSize="34sp"
+        android:text="@string/calculator_bt_AC"
+        android:layout_gravity="center|end"
+        android:id="@+id/button_AC"
+        android:translationX="-8dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="-25dp"
+        android:textSize="34sp"
+        android:text="@string/calculator_bt_waru"
+        android:layout_gravity="center|end"
+        android:id="@+id/button_waru"
+        android:translationX="-8dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="50dp"
+        android:textSize="34sp"
+        android:text="@string/calculator_bt_kakeru"
+        android:layout_gravity="center|end"
+        android:id="@+id/button_kakeru"
+        android:translationX="-8dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:translationY="130dp"
+        android:textSize="34sp"
+        android:text="@string/calculator_bt_hiku"
+        android:layout_gravity="center|end"
+        android:id="@+id/button_mainasu"
+        android:translationX="-8dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+    <Button android:layout_height="96dp"
+        android:layout_width="wrap_content"
+        android:translationY="225dp"
+        android:textSize="48sp"
+        android:text="@string/calculator_bt_tasu"
+        android:layout_gravity="center|end"
+        android:id="@+id/button_purasu"
+        android:translationX="-8dp"
+        android:background="@color/black"
+        android:width="48dp"/>
+
+</FrameLayout>
